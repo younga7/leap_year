@@ -1,6 +1,8 @@
-# CS362 HW1
+# CS362 HW2
 # Alex Young
+# 1/26/2021
 # Run this file using python3 alex_young_hw2.py
+# This program checks if a year is a leap year with error handling
 
 c = 0
 while c == 0:
